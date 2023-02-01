@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:raw_fishes/cod"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "largemeals:cod_deluxe"
+  }
+}

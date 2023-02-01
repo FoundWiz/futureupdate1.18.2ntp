@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 225,
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "farmersdelight:cabbage"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "largemeals:omurice_block"
+  }
+}

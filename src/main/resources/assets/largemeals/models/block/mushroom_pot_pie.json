@@ -1,0 +1,9 @@
+{
+  "parent": "farmersdelight:block/pie",
+  "textures": {
+    "particle": "largemeals:block/mushroom_pot_pie_top",
+    "bottom": "farmersdelight:block/pie_bottom",
+    "side": "largemeals:block/mushroom_pot_pie_side",
+    "top": "largemeals:block/mushroom_pot_pie_top"
+  }
+}

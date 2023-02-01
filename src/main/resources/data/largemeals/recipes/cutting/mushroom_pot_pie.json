@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "largemeals:mushroom_pot_pie"
+    }
+  ],
+  "result": [
+    {
+      "count": 4,
+      "item": "largemeals:mushroom_pot_pie_slice"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}
